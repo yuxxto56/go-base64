@@ -1,4 +1,5 @@
 # go-base64
+封装golang中base64加密与解密方法
 ### 使用
 ```
    package  main
